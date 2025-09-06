@@ -90,7 +90,8 @@ ___
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaSilva-Dev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaSilva-Dev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9&cache_seconds=30"
 />
+
 
 </p>
